@@ -1,0 +1,14 @@
+{
+  "name": "job1-softgod",
+  "version": "1.0.0",
+  "description": "blind printing",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Softgod",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
+}
