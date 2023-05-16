@@ -1,2 +1,2 @@
 # Blind-typing-JS
-blind typing simulator in pure JS
+![Portfolio](./screenshot.jpg)
